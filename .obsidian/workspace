@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "a2364141a6cb430f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa6158607f61765",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "linux/static_ip.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3a4b79ca97295fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcf405e718651fc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a20ae085f8bd210",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bea11ed6b080dae0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f501fd32c28be3cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252
+  },
+  "right": {
+    "id": "41d3fde056411c40",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c1ec9e9cf822ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7646dd4f5f9781e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "linux/static_ip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e5aaefa4ca515f67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8babbd37e820d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "linux/static_ip.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1aa6158607f61765",
+  "lastOpenFiles": [
+    "linux/static_ip.md",
+    "k8s&container/kubernetes/kubebuilder/kubebuilder-quick-start.md",
+    "k8s&container/kubernetes/k8s_etcd.md",
+    "k8s&container/kubernetes/kubebuilder.md",
+    "k8s&container/kubernetes/kubectl-cm-cmds.md",
+    "k8s&container/kubernetes/kubectl.md",
+    "templates/head-01.md",
+    "k8s&container/未命名.md",
+    "k8s&container/microk8s.md",
+    "k8s&container/k8s-install.md"
+  ]
+}
