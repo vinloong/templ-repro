@@ -1,7 +1,8 @@
-name: build-deploy
+name:  GitHub Pages
 on:
   push:
-    branches: [ master ]
+    branches: 
+    - master
   pull_request:
 jobs:
   # This workflow contains a single job called "build"
