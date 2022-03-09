@@ -1,11 +1,8 @@
 name: build-deploy
-
 on:
   push:
     branches: [ master ]
   pull_request:
-
-
 jobs:
   # This workflow contains a single job called "build"
   build:
